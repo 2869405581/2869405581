@@ -41,8 +41,6 @@
 
 ## 📬 联系我
 💌 欢迎交流机器学习/协作学习/技术讨论：
-- GitHub: [@yourusername](https://github.com/yourusername)
-- 邮箱: your.email@example.com
-- [LinkedIn](#)（如有）
+- 邮箱: huangbulongdou@gmail.com
 
 ![机器学习之路](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif) <!-- 可选动态图 -->
